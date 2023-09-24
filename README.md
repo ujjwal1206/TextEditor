@@ -89,14 +89,6 @@ So I thought making it as one of my project. So I started project with  Socket.j
 Here we can see a live editor and real time chat sytem .which can be used to go online and do live editing.
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/alexanderritik/Multi-Dimensional-Text-Editor/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -116,9 +108,6 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@ritik_srivastava](https://www.instagram.com/ritik_srivastava/) - Alexander Ritik
-
 Project Link: [https://live-texteditor.herokuapp.com/](live-text Editor)
 
 
